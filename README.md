@@ -1,35 +1,35 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11caff,100:0059ff&height=220&section=header&text=Vikas%20Morabagi&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=Vikas%20Morabagi&height=120&fontSize=55&animation=fadeIn" />
 </p>
 
 <h2 align="center">📊 Data Analyst | BI Developer | Python & SQL Enthusiast</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Data+Cleaning+%7C+EDA+%7C+Dashboards;Business+Intelligence+%7C+Analytics;Python+%7C+SQL+%7C+Power+BI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Data+Cleaning+%7C+EDA+%7C+Dashboards;Business+Intelligence+%7C+Analytics;Python+%7C+SQL+%7C+Power+BI" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-Computer Engineering undergraduate and passionate **Data Analyst** skilled in  
+## 👨‍💻 **About Me**
+I’m a **Computer Engineering undergraduate** and passionate **Data Analyst** skilled in  
 **Python, SQL, Power BI, Excel, and Jupyter Notebook**.
 
-I focus on **EDA, dashboarding, data cleaning, SQL analytics, and business insights**.
+I specialize in creating **data-driven insights**, performing strong **EDA**, building interactive dashboards,  
+and turning raw data into **smart business decisions**.
 
 ---
 
-## 🛠️ Animated Skills & Tools
-
-### 🎯 Programming & Analytics Tools
+## 🎯 **Programming & Analytics Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="55" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="55" />
+  <img src="https://skillicons.dev/icons?i=python" width="55" /> 
+  <img src="https://skillicons.dev/icons?i=postgresql" width="55" /> 
   <img src="https://skillicons.dev/icons?i=jupyter" width="55" />
   <img src="https://skillicons.dev/icons?i=git" width="55" />
   <img src="https://skillicons.dev/icons?i=cpp" width="55" />
 </p>
 
-### 📊 BI, Visualization & Data Tools
+## 📊 **BI, Visualizations & Data Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=excel" width="55" />
   <img src="https://skillicons.dev/icons?i=powerbi" width="55" />
@@ -37,7 +37,7 @@ I focus on **EDA, dashboarding, data cleaning, SQL analytics, and business insig
   <img src="https://skillicons.dev/icons?i=github" width="55" />
 </p>
 
-### 📚 Python Libraries
+## 📚 **Python Libraries**
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -49,41 +49,50 @@ I focus on **EDA, dashboarding, data cleaning, SQL analytics, and business insig
 
 ---
 
-## 🏅 Certifications
-<p align="left">
-  <a href="/mnt/data/Data_Analytics_Essentials_certificate_vikasmorabagi24680-gmail-com_169bb563-2575-4e8e-b46f-a89254cde9fc.pdf" target="_blank"><img src="https://img.shields.io/badge/Cisco-Data%20Analytics%20Essentials-0052CC?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-  <a href="/mnt/data/deloite DV.pdf" target="_blank"><img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-000000?style=for-the-badge&logo=deloitte&logoColor=green" /></a>
-  <a href="/mnt/data/Microsoft MS Excel certification.pdf" target="_blank"><img src="https://img.shields.io/badge/Microsoft-Excel%20Certification-1D6F42?style=for-the-badge&logo=microsoft-excel" /></a>
-  <a href="/mnt/data/oracle eCertificate.pdf" target="_blank"><img src="https://img.shields.io/badge/Oracle-Analytics%20Cloud%20OCP-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="/mnt/data/TATA DV.pdf" target="_blank"><img src="https://img.shields.io/badge/TATA-Data%20Visualization%20Certification-0076BB?style=for-the-badge" /></a>
-  <a href="/mnt/data/Vikas_Morabagi_4881930.pdf" target="_blank"><img src="https://img.shields.io/badge/TCS-Career%20Edge%20Young%20Professional-FF6F00?style=for-the-badge&logo=tata" /></a>
-</p>
+# 🚀 **Top Analytics Projects **
+
+### 🛍️ **1. Customer Shopping Behavior Analysis**
+✔ Cleaned & analyzed **3,900+ transactions**  
+✔ Conducted EDA + SQL business analysis  
+✔ Built a full Power BI dashboard  
+✔ Delivered insights on revenue, customer segments & discount effects  
+
+**Business Impact:**  
+- Identified high-value segments  
+- Found discount-dependent categories  
+- Suggested targeted promotions  
 
 ---
 
-## 📄 Resume
-<p align="left">
-  <a href="/mnt/data/Vikas_Morabagi Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobe-acrobat-reader" />
-  </a>
-</p>
+### 📡 **2. Telecom Customer Churn Analysis**
+✔ Cleaned & processed **7,043 customer records**  
+✔ Compared churn vs non-churn behavior  
+✔ Performed correlation & trend analysis  
+✔ Visualized service usage & payment method impact  
+
+**Business Impact:**  
+- Month-to-month contracts show highest churn  
+- Billing method strongly affects churn  
+- Recommended contract upgrade incentives  
 
 ---
 
-## 🚀 Projects — Detailed Grid
+### 🎬 **3. Netflix Content Strategy Analysis**
+✔ Analyzed **8,800+ Netflix titles**  
+✔ Studied genre balance, regional content & release trends  
+✔ Identified content gaps & trending categories  
 
-Below is a modern 3-column grid showcasing the top projects with short descriptions, impact, approach, key findings, and quick links. Replace repo links if you want them to direct to specific repositories.
-
-| 🛍️ Customer Shopping Behavior Analysis | 📡 Telecom Customer Churn Analysis | 🎬 Netflix Content Strategy Analysis |
-|---|---|---|
-| **Summary:** End-to-end analysis of **3,900+ transactions** to find revenue drivers, customer segments, and behavior patterns. <br> **Impact:** Provided recommendations to increase subscription uptake and targeted marketing, projected revenue uplift opportunities. <br> **Approach:** Data cleaning (imputed missing review ratings), feature engineering (age groups, purchase frequency), SQL analytics for revenue/segments, Power BI dashboard for stakeholders. <br> **Key Findings:** High-revenue age groups, discount-dependent products, top-rated items. <br> **Files:** [Notebook](/mnt/data/Customer_Shopping_Behavior_Analysis.ipynb) • [Report](/mnt/data/Report%20Customer%20Shopping%20Behavior%20Analysis.pdf) • [SQL](/mnt/data/SQL_customer_behavior_sql_queries.sql) | **Summary:** Analysis of **7,043** telecom customers to investigate drivers of churn and retention. <br> **Impact:** Actionable retention strategies—promote longer contracts, improve payment experience—leading to potential churn reduction. <br> **Approach:** Cleaned TotalCharges, standardized categories, EDA with countplots, correlation & driver analysis, visualization using seaborn/matplotlib. <br> **Key Findings:** Month-to-month contracts show highest churn; electronic check users churn more; higher monthly charges correlate with churn. <br> **Files:** [Notebook](/mnt/data/Teleco%20Churn%20Analysis.ipynb) • [Report](/mnt/data/Telecom_Churn_Analysis%20Report.pdf) | **Summary:** Explored Netflix dataset to analyze content mix, genre trends, and strategic content gaps. <br> **Impact:** Recommendations for content acquisition & localized strategy for higher engagement in target regions. <br> **Approach:** Data cleaning, genre & release-year trend analysis, country-wise breakdowns, visualization & strategic recommendations. <br> **Key Findings:** Genre distribution imbalances, content release year spikes, regional content gaps. <br> **Files:** [Notebook](/mnt/data/Netflix%20Content%20Strategy%20Analysis.ipynb) • [Dataset](/mnt/data/netflix_content.csv) |
+**Business Impact:**  
+- Suggested new content acquisition categories  
+- Found regional content gaps  
+- Highlighted growth potential in specific genres  
 
 ---
 
-## 📈 GitHub Stats & Activity
+# 📈 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasMorabagi01&theme=tokyonight" width="520"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasMorabagi01&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=ffffff" width="500"/>
 </p>
 
 <p align="center">
@@ -93,13 +102,34 @@ Below is a modern 3-column grid showcasing the top projects with short descripti
 
 ---
 
-## 📞 Contact Me
-<p align="left">
-  <a href="mailto:vikasmora9080@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vikas-morabagi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/VikasMorabagi01"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+# 🧮 **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VikasMorabagi01&color=00bfff&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
+---
+
+# 📞 **Contact Me**  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0059ff,100:11caff&height=140&section=footer" />
+  <a href="mailto:vikasmora9080@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
+  <a href="https://linkedin.com/in/vikas-morabagi">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  <a href="https://github.com/VikasMorabagi01">
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+  </a>
 </p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00f5d4,50:00bbf9,100:0096c7&animation=fadeIn" />
+</p>
+
+
+
+
+
+
+
