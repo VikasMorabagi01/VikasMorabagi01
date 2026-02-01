@@ -1,135 +1,178 @@
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Vikas Mahadev Morabagi</span></h1>
+
+<h3 align="center">
+📊 Data Analyst | 📈 Business Intelligence Enthusiast | 💻 Computer Engineer
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=Vikas%20Morabagi&height=120&fontSize=55&animation=fadeIn" />
-</p>
-
-<h2 align="center">📊 Data Analyst | BI Developer | Python & SQL Enthusiast</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Decisions;Data+Cleaning+%7C+EDA+%7C+Dashboards;Business+Intelligence+%7C+Analytics;Python+%7C+SQL+%7C+Power+BI" />
-</p>
-
----
-
-## 👨‍💻 **About Me**
-I’m a **Computer Engineering undergraduate** and passionate **Data Analyst** skilled in  
-**Python, SQL, Power BI, Excel, and Jupyter Notebook**.
-
-I specialize in creating **data-driven insights**, performing strong **EDA**, building interactive dashboards,  
-and turning raw data into **smart business decisions**.
-
----
-
-## 🎯 **Programming & Analytics Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="55" /> 
-  <img src="https://skillicons.dev/icons?i=postgresql" width="55" /> 
-  <img src="https://skillicons.dev/icons?i=jupyter" width="55" />
-  <img src="https://skillicons.dev/icons?i=git" width="55" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" />
-</p>
-
-## 📊 **BI, Visualizations & Data Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=excel" width="55" />
-  <img src="https://skillicons.dev/icons?i=powerbi" width="55" />
-  <img src="https://skillicons.dev/icons?i=anaconda" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-</p>
-
-## 📚 **Python Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Statsmodels-326598?style=for-the-badge" />
-</p>
-
----
-
-# 🚀 **Top Analytics Projects **
-
-### 🛍️ **1. Customer Shopping Behavior Analysis**
-✔ Cleaned & analyzed **3,900+ transactions**  
-✔ Conducted EDA + SQL business analysis  
-✔ Built a full Power BI dashboard  
-✔ Delivered insights on revenue, customer segments & discount effects  
-
-**Business Impact:**  
-- Identified high-value segments  
-- Found discount-dependent categories  
-- Suggested targeted promotions  
-
----
-
-### 📡 **2. Telecom Customer Churn Analysis**
-✔ Cleaned & processed **7,043 customer records**  
-✔ Compared churn vs non-churn behavior  
-✔ Performed correlation & trend analysis  
-✔ Visualized service usage & payment method impact  
-
-**Business Impact:**  
-- Month-to-month contracts show highest churn  
-- Billing method strongly affects churn  
-- Recommended contract upgrade incentives  
-
----
-
-### 🎬 **3. Netflix Content Strategy Analysis**
-✔ Analyzed **8,800+ Netflix titles**  
-✔ Studied genre balance, regional content & release trends  
-✔ Identified content gaps & trending categories  
-
-**Business Impact:**  
-- Suggested new content acquisition categories  
-- Found regional content gaps  
-- Highlighted growth potential in specific genres  
-
----
-
-# 📈 **GitHub Stats & Activity**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikasMorabagi01&theme=tokyonight&ring=00eaff&fire=00eaff&currStreakLabel=ffffff" width="500"/>
+  <a href="mailto:vikasmora9080@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/vikas-morabagi">🔗 LinkedIn</a> •
+  <a href="https://github.com/VikasMorabagi01">💻 GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikasMorabagi01&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikasMorabagi01&layout=compact&theme=tokyonight" height="180"/>
+📍 Pune, Maharashtra, India
 </p>
 
 ---
 
-# 🧮 **Profile Visitors**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VikasMorabagi01&color=00bfff&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+## 🚀 About Me
+
+> **Computer Engineering undergraduate** with strong expertise in **Data Analytics & Business Intelligence**.  
+> I turn raw data into **clear insights, dashboards, and business decisions** using  
+> **Power BI, SQL, Excel, and Python**.
+
+✨ What I bring:
+- 🔍 Strong analytical & problem-solving mindset  
+- 📊 Clear data storytelling & visualization  
+- 🧠 Business-focused thinking  
+- 🤝 Excellent collaboration & communication
 
 ---
 
-# 📞 **Contact Me**  
-<p align="center">
-  <a href="mailto:vikasmora9080@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
-  </a>
-  <a href="https://linkedin.com/in/vikas-morabagi">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
-  </a>
-  <a href="https://github.com/VikasMorabagi01">
-    <img src="https://skillicons.dev/icons?i=github" width="55" />
-  </a>
-</p>
+## 🧰 Technical Skills
+
+### 📊 Business Intelligence
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
+![DAX](https://img.shields.io/badge/DAX-Measures-orange)
+![Data Modeling](https://img.shields.io/badge/DataModeling-StarSchema-blue)
+![Power Query](https://img.shields.io/badge/PowerQuery-ETL-lightgrey)
+
+- Power BI Desktop, DAX, Power Query  
+- Data Modeling (Star Schema)  
+- KPI Development & Dashboard Design  
 
 ---
+
+### 🗄️ SQL & Databases
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Optimization](https://img.shields.io/badge/Query-Optimization-green)
+
+- SQL Server, PostgreSQL  
+- Joins, CTEs, Window Functions  
+- Stored Procedures  
+- Query Optimization  
+
+---
+
+### 📈 Excel Analytics
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![PowerQuery](https://img.shields.io/badge/Excel-PowerQuery-lightgrey)
+
+- Advanced Excel  
+- Pivot Tables & Dashboards  
+- XLOOKUP, INDEX-MATCH  
+- Power Query (ETL)
+
+---
+
+### 🐍 Python for Data Analytics
+![Python](https://img.shields.io/badge/Python-DataAnalytics-blue)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-purple)
+
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Data Cleaning & Automation  
+- Exploratory Data Analysis
+
+---
+
+## 📈 Featured Projects
+
+---
+
+### 🔥 Meta Advertising Insights Dashboard
+**Power BI | SQL | DAX | Data Modeling**
+
+📊 **200K+ ad events analyzed** across Facebook & Instagram  
+📌 Built end-to-end **BI dashboard with funnel metrics**  
+📍 Audience, geo, time & ad-type performance analysis  
+📈 Delivered insights for **ROI & budget optimization**
+
+⭐ **Highlights**
+- CTR: **11.76%** (above industry avg)
+- Engagement Rate: **13.56%**
+- Identified **video & story ads as top performers**
+- Recommended **conversion funnel optimization**
+
+👉 🔗 [View Repository](#)
+
+---
+
+### 🛒 Customer Shopping Behavior Analysis
+**Python | PostgreSQL | Power BI**
+
+- Analyzed **3,900+ transactions**
+- Identified key revenue drivers
+- Built EDA → SQL → Dashboard pipeline
+
+👉 🔗 [View Repository](#)
+
+---
+
+### 📞 Telecom Customer Churn Analysis
+**Python | Pandas | Matplotlib**
+
+- Analyzed **7,043 customer records**
+- Identified churn drivers by contract & payment
+- Supported retention strategy decisions
+
+👉 🔗 [View Repository](#)
+
+---
+
+### 🎬 Netflix SQL Data Analysis
+**Advanced SQL | PostgreSQL**
+
+- Solved **15 real-world business problems**
+- Used CTEs, window functions, string & date ops
+- Generated content strategy insights
+
+👉 🔗 [View Repository](#)
+
+---
+
+## 🎓 Education
+
+🎓 **B.E. in Computer Engineering**  
+ISB&M College of Engineering, Pune (SPPU)  
+📅 2021 – 2025 | **CGPA: 7.40**
+
+---
+
+## 🏅 Certifications
+
+✔ TCS iON – Career Edge  
+✔ Microsoft & LinkedIn – Generative AI  
+✔ Deloitte – Data Analytics Simulation  
+✔ Cisco – Data Analytics Essentials  
+✔ Oracle Analytics Cloud Certified Professional
+
+---
+
+## 🌍 Additional Information
+
+🌐 **Languages:** English, Hindi, Marathi, Kannada  
+💡 **Interests:** AI, Data Analytics, Emerging Tech, Personal Growth
+
+---
+
+## 🤝 Let’s Connect
+
+💼 Open to:
+- Data Analyst / BI roles  
+- Internships & entry-level opportunities  
+- Freelance analytics projects  
+
+📩 Reach me on **LinkedIn or Email**
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00f5d4,50:00bbf9,100:0096c7&animation=fadeIn" />
+⭐ <b>If you like my work, please star my repositories!</b> ⭐
 </p>
-
-
-
-
-
-
-
