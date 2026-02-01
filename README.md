@@ -170,9 +170,3 @@ ISB&M College of Engineering, Pune (SPPU)
 - Freelance analytics projects  
 
 📩 Reach me on **LinkedIn or Email**
-
----
-
-<p align="center">
-⭐ <b>If you like my work, please star my repositories!</b> ⭐
-</p>
