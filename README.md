@@ -1,172 +1,111 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Vikas Mahadev Morabagi</span></h1>
-
-<h3 align="center">
-📊 Data Analyst | 📈 Business Intelligence Enthusiast | 💻 Computer Engineer
-</h3>
+<h1 align="center">Hi 👋, I'm Vikas Morabagi</h1>
+<h3 align="center">Data Analyst | SQL | Python | Power BI | Turning Data into Business Impact</h3>
 
 <p align="center">
-  <a href="mailto:vikasmora9080@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/vikas-morabagi">🔗 LinkedIn</a> •
-  <a href="https://github.com/VikasMorabagi01">💻 GitHub</a>
-</p>
-
-<p align="center">
-📍 Pune, Maharashtra, India
+  <a href="https://linkedin.com/in/vikas-morabagi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:vikasmora9080@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/VikasMorabagi01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-> **Computer Engineering undergraduate** with strong expertise in **Data Analytics & Business Intelligence**.  
-> I turn raw data into **clear insights, dashboards, and business decisions** using  
-> **Power BI, SQL, Excel, and Python**.
+Detail-oriented Data Analyst with hands-on experience in:
 
-✨ What I bring:
-- 🔍 Strong analytical & problem-solving mindset  
-- 📊 Clear data storytelling & visualization  
-- 🧠 Business-focused thinking  
-- 🤝 Excellent collaboration & communication
+- SQL-based data extraction & optimization  
+- Python-powered Exploratory Data Analysis (EDA)  
+- Power BI dashboard development & KPI tracking  
+- Data modeling (Star Schema) & DAX measures  
+- Business-driven problem solving  
 
----
-
-## 🧰 Technical Skills
-
-### 📊 Business Intelligence
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
-![DAX](https://img.shields.io/badge/DAX-Measures-orange)
-![Data Modeling](https://img.shields.io/badge/DataModeling-StarSchema-blue)
-![Power Query](https://img.shields.io/badge/PowerQuery-ETL-lightgrey)
-
-- Power BI Desktop, DAX, Power Query  
-- Data Modeling (Star Schema)  
-- KPI Development & Dashboard Design  
+I focus on transforming raw datasets into **clear, strategic insights that improve decision-making and ROI**.
 
 ---
 
-### 🗄️ SQL & Databases
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Optimization](https://img.shields.io/badge/Query-Optimization-green)
+## 🛠 Tech Stack
 
-- SQL Server, PostgreSQL  
-- Joins, CTEs, Window Functions  
-- Stored Procedures  
-- Query Optimization  
+### 👨‍💻 Languages
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow?logo=python)
 
----
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
 
-### 📈 Excel Analytics
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![PowerQuery](https://img.shields.io/badge/Excel-PowerQuery-lightgrey)
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
 
-- Advanced Excel  
-- Pivot Tables & Dashboards  
-- XLOOKUP, INDEX-MATCH  
-- Power Query (ETL)
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ---
 
-### 🐍 Python for Data Analytics
-![Python](https://img.shields.io/badge/Python-DataAnalytics-blue)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-purple)
-
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Data Cleaning & Automation  
-- Exploratory Data Analysis
+# 📊 Featured Projects
 
 ---
 
-## 📈 Featured Projects
+## 📌 Meta Advertising Insights Dashboard
+**Power BI | SQL | DAX**
+
+✔ Identified conversion gap (13.56% engagement vs 0.61% purchases)  
+✔ Found Video Ads & Female 18–30 as highest ROI segment  
+✔ Recommended regional budget reallocation (India & USA)  
+✔ Built Star Schema model + advanced DAX metrics (ROAS, CTR)
+
+**Impact:** Improved marketing budget efficiency & funnel optimization.
 
 ---
 
-### 🔥 Meta Advertising Insights Dashboard
-**Power BI | SQL | DAX | Data Modeling**
+## 📌 Telecom Customer Churn Analysis
+**Python | Pandas | Seaborn**
 
-📊 **200K+ ad events analyzed** across Facebook & Instagram  
-📌 Built end-to-end **BI dashboard with funnel metrics**  
-📍 Audience, geo, time & ad-type performance analysis  
-📈 Delivered insights for **ROI & budget optimization**
+✔ Analyzed 7,043 customers with 26.5% churn rate  
+✔ Found 88.5% churners on month-to-month contracts  
+✔ Identified Tech Support as retention driver  
 
-⭐ **Highlights**
-- CTR: **11.76%** (above industry avg)
-- Engagement Rate: **13.56%**
-- Identified **video & story ads as top performers**
-- Recommended **conversion funnel optimization**
-
-👉 🔗 [View Repository](#)
+**Impact:** Strategic migration plan to long-term contracts & targeted retention.
 
 ---
 
-### 🛒 Customer Shopping Behavior Analysis
-**Python | PostgreSQL | Power BI**
+## 📌 Netflix SQL Data Analysis
+**PostgreSQL**
 
-- Analyzed **3,900+ transactions**
-- Identified key revenue drivers
-- Built EDA → SQL → Dashboard pipeline
+✔ 8,800+ titles dataset  
+✔ Used CTEs, Window Functions, Aggregations  
+✔ Solved 15+ business-focused queries  
+✔ Identified global content trends & regional growth patterns  
 
-👉 🔗 [View Repository](#)
-
----
-
-### 📞 Telecom Customer Churn Analysis
-**Python | Pandas | Matplotlib**
-
-- Analyzed **7,043 customer records**
-- Identified churn drivers by contract & payment
-- Supported retention strategy decisions
-
-👉 🔗 [View Repository](#)
+**Impact:** Data-backed recommendations for regional content expansion.
 
 ---
 
-### 🎬 Netflix SQL Data Analysis
-**Advanced SQL | PostgreSQL**
+# 🎯 What I Bring
 
-- Solved **15 real-world business problems**
-- Used CTEs, window functions, string & date ops
-- Generated content strategy insights
-
-👉 🔗 [View Repository](#)
-
----
-
-## 🎓 Education
-
-🎓 **B.E. in Computer Engineering**  
-ISB&M College of Engineering, Pune (SPPU)  
-📅 2021 – 2025 | **CGPA: 7.40**
+✔ Strong SQL Querying & Optimization  
+✔ Business-Focused Data Analysis  
+✔ KPI Dashboard Design  
+✔ Structured Analytical Thinking  
+✔ Clear Data Storytelling  
 
 ---
 
-## 🏅 Certifications
+# 📬 Let’s Connect
 
-✔ TCS iON – Career Edge  
-✔ Microsoft & LinkedIn – Generative AI  
-✔ Deloitte – Data Analytics Simulation  
-✔ Cisco – Data Analytics Essentials  
-✔ Oracle Analytics Cloud Certified Professional
-
----
-
-## 🌍 Additional Information
-
-🌐 **Languages:** English, Hindi, Marathi, Kannada  
-💡 **Interests:** AI, Data Analytics, Emerging Tech, Personal Growth
+📍 Pune, Maharashtra  
+📧 vikasmora9080@gmail.com  
+🔗 linkedin.com/in/vikas-morabagi  
+💻 github.com/VikasMorabagi01  
 
 ---
 
-## 🤝 Let’s Connect
-
-💼 Open to:
-- Data Analyst / BI roles  
-- Internships & entry-level opportunities  
-- Freelance analytics projects  
-
-📩 Reach me on **LinkedIn or Email**
+⭐ If you like my work, feel free to connect or collaborate!
