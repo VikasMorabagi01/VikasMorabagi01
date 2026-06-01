@@ -89,6 +89,55 @@ I focus on transforming raw datasets into **clear, strategic insights that impro
 
 ---
 
+## 🏆 Certifications
+
+<table align="center">
+<tr>
+<td align="center" width="220">
+
+<a href="https://www.credly.com/badges/9975c17e-5575-468e-8024-c9ebaf05ec6b/public_url">
+<img src="assets/microsoft-certified-azure-fundamentals.png" width="170" height="170">
+</a>
+
+<br>
+
+**Microsoft Certified**
+Azure Fundamentals
+
+</td>
+
+<td align="center" width="220">
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=00495E3466F9708742F1315200EAC97870722D61116E1BB715EB410F52E6D6E3">
+<img src="assets/Oracle.png" width="170" height="170">
+</a>
+
+<br>
+
+**Oracle Certified**
+Analytics Cloud 2025 Professional
+
+</td>
+
+<td align="center" width="220">
+
+<a href="https://www.credly.com/badges/85b313e8-fc21-4aed-ac61-394907d2642b/public_url">
+<img src="assets/data-analytics-essentials.png" width="170" height="170">
+</a>
+
+<br>
+
+**Cisco Networking Academy**
+Data Analytics Essentials
+
+</td>
+
+</tr>
+</table>
+
+
+--- 
+
 # 🎯 What I Bring
 
 ✔ Strong SQL Querying & Optimization  
